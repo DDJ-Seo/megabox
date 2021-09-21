@@ -11,6 +11,7 @@ body {
     font : 16px/ 1.5 "Noto Sans KR", "Maven Pro", sans-serif;
     color: #000;
     background-color: #fff;
+    overflow-x:hidden;
 }
 
 .blind {
